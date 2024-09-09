@@ -1,0 +1,48 @@
+
+oops.png
+size: 190,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+O
+  rotate: true
+  xy: 2, 84
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+P
+  rotate: true
+  xy: 2, 190
+  size: 78, 114
+  orig: 78, 114
+  offset: 0, 0
+  index: -1
+S
+  rotate: true
+  xy: 2, 2
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+了
+  rotate: false
+  xy: 116, 30
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+答
+  rotate: false
+  xy: 118, 190
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+错
+  rotate: false
+  xy: 116, 108
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1

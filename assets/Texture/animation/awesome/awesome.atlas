@@ -1,0 +1,83 @@
+
+awesome.png
+size: 226,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 122, 116
+  size: 98, 116
+  orig: 98, 116
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 2, 234
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+M
+  rotate: true
+  xy: 2, 306
+  size: 100, 124
+  orig: 100, 124
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 2, 2
+  size: 104, 112
+  orig: 104, 112
+  offset: 0, 0
+  index: -1
+S
+  rotate: false
+  xy: 128, 234
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 2, 408
+  size: 134, 128
+  orig: 134, 128
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 2, 120
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+了
+  rotate: true
+  xy: 108, 10
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+太
+  rotate: false
+  xy: 138, 348
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+棒
+  rotate: false
+  xy: 138, 442
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+编组 2
+  rotate: true
+  xy: 2, 162
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1

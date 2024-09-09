@@ -1,0 +1,450 @@
+{
+  "skeleton": {
+    "hash": "T3j/J/4sf6ye49cMXdFnxmf1L3w",
+    "spine": "3.8.99",
+    "x": -180.92,
+    "y": -97.96,
+    "width": 342.25,
+    "height": 225.04,
+    "images": "oops",
+    "audio": ""
+  },
+  "bones": [
+    {
+      "name": "root",
+      "scaleX": 0.7,
+      "scaleY": 0.7
+    },
+    {
+      "name": "O",
+      "parent": "root",
+      "x": -129.7,
+      "y": 24.29
+    },
+    {
+      "name": "O2",
+      "parent": "root",
+      "x": -30.45,
+      "y": 48.48
+    },
+    {
+      "name": "P",
+      "parent": "root",
+      "x": 51.28,
+      "y": 66.83
+    },
+    {
+      "name": "S",
+      "parent": "root",
+      "x": 122.17,
+      "y": 77.67
+    },
+    {
+      "name": "答",
+      "parent": "root",
+      "x": -68.82,
+      "y": -60.78
+    },
+    {
+      "name": "错",
+      "parent": "root",
+      "x": 5.41,
+      "y": -43.26
+    },
+    {
+      "name": "了",
+      "parent": "root",
+      "x": 72.96,
+      "y": -28.25
+    }
+  ],
+  "slots": [
+    {
+      "name": "O",
+      "bone": "O",
+      "attachment": "O"
+    },
+    {
+      "name": "P",
+      "bone": "P",
+      "attachment": "P"
+    },
+    {
+      "name": "S",
+      "bone": "S",
+      "attachment": "S"
+    },
+    {
+      "name": "了",
+      "bone": "了",
+      "attachment": "了"
+    },
+    {
+      "name": "答",
+      "bone": "答",
+      "attachment": "答"
+    },
+    {
+      "name": "错",
+      "bone": "错",
+      "attachment": "错"
+    },
+    {
+      "name": "O2",
+      "bone": "O2",
+      "attachment": "O"
+    }
+  ],
+  "skins": [
+    {
+      "name": "default",
+      "attachments": {
+        "O": {
+          "O": {
+            "x": 0.78,
+            "y": -4.75,
+            "width": 104,
+            "height": 112
+          }
+        },
+        "O2": {
+          "O": {
+            "x": -0.42,
+            "y": -6.77,
+            "width": 104,
+            "height": 112
+          }
+        },
+        "P": {
+          "P": {
+            "x": 1.56,
+            "y": -10.85,
+            "width": 78,
+            "height": 114
+          }
+        },
+        "S": {
+          "S": {
+            "x": -0.84,
+            "y": -6.58,
+            "width": 80,
+            "height": 112
+          }
+        },
+        "了": {
+          "了": {
+            "x": -2.4,
+            "y": -8.56,
+            "width": 68,
+            "height": 76
+          }
+        },
+        "答": {
+          "答": {
+            "x": 5.63,
+            "y": 1.82,
+            "width": 70,
+            "height": 78
+          }
+        },
+        "错": {
+          "错": {
+            "x": -1.25,
+            "y": -4.2,
+            "width": 72,
+            "height": 80
+          }
+        }
+      }
+    }
+  ],
+  "animations": {
+    "animation": {
+      "slots": {
+        "O": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "O2": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "P": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "S": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.5,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "了": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4667,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "答": {
+          "color": [
+            {
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        },
+        "错": {
+          "color": [
+            {
+              "color": "ffffff00",
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "color": "ffffff00"
+            },
+            {
+              "time": 0.4333,
+              "color": "ffffffff",
+              "curve": "stepped"
+            },
+            {
+              "time": 1,
+              "color": "ffffffff"
+            },
+            {
+              "time": 1.2333,
+              "color": "ffffff00"
+            }
+          ]
+        }
+      },
+      "bones": {
+        "O": {
+          "translate": [
+            {
+              "y": 43.78,
+              "curve": 0,
+              "c2": 0.26,
+              "c3": 0.331
+            },
+            {
+              "time": 0.4
+            }
+          ]
+        },
+        "O2": {
+          "translate": [
+            {
+              "y": 43.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "y": 43.78,
+              "curve": 0,
+              "c2": 0.26,
+              "c3": 0.331
+            },
+            {
+              "time": 0.4333
+            }
+          ]
+        },
+        "P": {
+          "translate": [
+            {
+              "y": 43.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "y": 43.78,
+              "curve": 0,
+              "c2": 0.26,
+              "c3": 0.331
+            },
+            {
+              "time": 0.4667
+            }
+          ]
+        },
+        "S": {
+          "translate": [
+            {
+              "y": 43.78,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.1,
+              "y": 43.78,
+              "curve": 0,
+              "c2": 0.26,
+              "c3": 0.331
+            },
+            {
+              "time": 0.5
+            }
+          ]
+        },
+        "答": {
+          "translate": [
+            {
+              "y": 20.06,
+              "curve": 0.041,
+              "c2": 0.5,
+              "c3": 0.595
+            },
+            {
+              "time": 0.4
+            }
+          ]
+        },
+        "错": {
+          "translate": [
+            {
+              "y": 20.06,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0333,
+              "y": 20.06,
+              "curve": 0.041,
+              "c2": 0.5,
+              "c3": 0.595
+            },
+            {
+              "time": 0.4333
+            }
+          ]
+        },
+        "了": {
+          "translate": [
+            {
+              "y": 20.06,
+              "curve": "stepped"
+            },
+            {
+              "time": 0.0667,
+              "y": 20.06,
+              "curve": 0.041,
+              "c2": 0.5,
+              "c3": 0.595
+            },
+            {
+              "time": 0.4667
+            }
+          ]
+        }
+      }
+    }
+  }
+}
