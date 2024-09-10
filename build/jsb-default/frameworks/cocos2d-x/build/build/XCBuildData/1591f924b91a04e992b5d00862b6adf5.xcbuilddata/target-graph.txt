@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'V8_SPINE_CRASH-mobile' in project 'V8_SPINE_CRASH'
+➜ Explicit dependency on target 'libcocos2d iOS' in project 'cocos2d_libs'
+Target 'libcocos2d iOS' in project 'cocos2d_libs' (no dependencies)

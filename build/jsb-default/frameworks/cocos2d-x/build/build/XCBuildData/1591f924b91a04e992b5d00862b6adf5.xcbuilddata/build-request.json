@@ -1,0 +1,42 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "ec0013343c751ac68c537de8454e50df02f89e649781e6d94eb26fc37c65a542"
+    }
+  ],
+  "containerPath" : "/Users/kardelzhou/work/code/v8-crash-demo/build/jsb-default/frameworks/runtime-src/proj.ios_mac/V8_SPINE_CRASH.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "ARCHS" : "x86_64",
+          "CONFIGURATION_BUILD_DIR" : "/Users/kardelzhou/work/code/v8-crash-demo/build/jsb-default/publish/ios",
+          "SDKROOT" : "iphonesimulator17.0",
+          "VALID_ARCHS" : "i386 x86_64"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

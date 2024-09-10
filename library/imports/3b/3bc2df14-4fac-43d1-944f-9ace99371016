@@ -1,0 +1,41 @@
+
+nice.png
+size: 122,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+C
+  rotate: true
+  xy: 2, 198
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 2, 2
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 86, 82
+  size: 34, 114
+  orig: 34, 114
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 2, 72
+  size: 82, 124
+  orig: 82, 124
+  offset: 0, 0
+  index: -1
+牛！
+  rotate: false
+  xy: 2, 298
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1
