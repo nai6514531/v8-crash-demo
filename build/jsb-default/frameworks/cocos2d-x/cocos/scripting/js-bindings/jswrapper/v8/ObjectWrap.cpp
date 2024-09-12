@@ -91,6 +91,8 @@ namespace se
         if (_registerWeak && handle()->InternalFieldCount() > 0) {
             persistent().SetWeak(this, weakCallback, v8::WeakCallbackType::kParameter);
             //        persistent().MarkIndependent();
+        } else {
+            persistent().SetWeak();
         }
     }
 
