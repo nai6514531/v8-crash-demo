@@ -311,7 +311,7 @@ namespace se
     {
         _cls = cls;
 
-        _obj.init(obj);
+        _obj.init(obj, _cls != nullptr);
         _obj.setFinalizeCallback(nativeObjectFinalizeHook);
 
         if (__objectMap)
