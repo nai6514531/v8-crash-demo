@@ -44,6 +44,8 @@ namespace spine {
         SkeletonCacheAnimation (const std::string& uuid, bool isShare);
         virtual ~SkeletonCacheAnimation ();
         
+        void destroy();
+        
         virtual void update(float dt) override;
         virtual void render(float dt) override;
         virtual uint32_t getRenderOrder() const override;

@@ -86,8 +86,10 @@ namespace se
 
     void ObjectWrap::makeWeak()
     {
-        persistent().SetWeak(this, weakCallback, v8::WeakCallbackType::kParameter);
-        //        persistent().MarkIndependent();
+        if (handle()->InternalFieldCount() > 0) {
+            persistent().SetWeak(this, weakCallback, v8::WeakCallbackType::kParameter);
+            //        persistent().MarkIndependent();
+        }
     }
 
     void ObjectWrap::ref()

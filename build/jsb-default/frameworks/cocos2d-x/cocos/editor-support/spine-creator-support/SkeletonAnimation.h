@@ -62,6 +62,7 @@ public:
     }
 
     virtual void update (float deltaTime) override;
+    virtual void destroy() override;
 
     void setAnimationStateData (AnimationStateData* stateData);
     void setMix (const std::string& fromAnimation, const std::string& toAnimation, float duration);
