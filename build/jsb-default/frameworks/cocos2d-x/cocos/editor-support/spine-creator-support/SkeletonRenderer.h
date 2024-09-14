@@ -125,6 +125,8 @@ namespace spine {
         void onEnable();
         void onDisable();
         
+        virtual void destroy();
+        
     CC_CONSTRUCTOR_ACCESS:
         SkeletonRenderer ();
         SkeletonRenderer(Skeleton* skeleton, bool ownsSkeleton = false, bool ownsSkeletonData = false, bool ownsAtlas = false);
